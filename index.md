@@ -1,3 +1,7 @@
+# Sanjana Koka's first CS193 Lab
+## Some of my favorite things about CS193
+- cool classmates
+- helpful TA's
 
 ## Welcome to GitHub Pages
 
@@ -21,12 +25,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-# Sanjana Koka's first CS193 Lab
-- some
-- of 
-- my 
-- favorite 
-- things
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
